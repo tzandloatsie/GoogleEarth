@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<ScreenOverlay>
+	<name>Billy Goat Bridge, 1969, 2 of 2</name>
+	<LookAt>
+		<longitude>-93.32233429687285</longitude>
+		<latitude>44.74382188060636</latitude>
+		<altitude>0</altitude>
+		<heading>32.77954923279644</heading>
+		<tilt>73.52098485956833</tilt>
+		<range>895.8422545191627</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<Icon>
+		<href>BillyGoatBridge_JackK_2of2_ca1969.jpg</href>
+	</Icon>
+	<overlayXY x="0.25" y="0.75" xunits="fraction" yunits="fraction"/>
+	<screenXY x="0.25" y="0.75" xunits="fraction" yunits="fraction"/>
+	<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+	<size x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</kml>

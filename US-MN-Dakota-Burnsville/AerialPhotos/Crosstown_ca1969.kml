@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<ScreenOverlay>
+	<name>Burnsville Parkway, ca. 1969</name>
+	<LookAt>
+		<longitude>-93.25374676883874</longitude>
+		<latitude>44.77756914732105</latitude>
+		<altitude>0</altitude>
+		<heading>87.75350870129196</heading>
+		<tilt>84.90347757447506</tilt>
+		<range>2229.305858128364</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<Icon>
+		<href>Crosstown_ca1969.jpg</href>
+	</Icon>
+	<overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	<screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+	<size x="608" y="480" xunits="pixels" yunits="pixels"/>
+</ScreenOverlay>
+</kml>

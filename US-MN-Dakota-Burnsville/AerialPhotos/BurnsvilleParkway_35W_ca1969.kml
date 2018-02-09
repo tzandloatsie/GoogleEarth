@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<ScreenOverlay>
+	<name>Burnsville Parkway at I-35W, ca. 1969</name>
+	<LookAt>
+		<longitude>-93.27887660462456</longitude>
+		<latitude>44.76885316476548</latitude>
+		<altitude>0</altitude>
+		<heading>87.73239434594787</heading>
+		<tilt>83.71304260617862</tilt>
+		<range>1895.779162838015</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>feffffff</color>
+	<Icon>
+		<href>BurnsvilleParkway_35W_ca1969.png</href>
+	</Icon>
+	<overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	<screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+	<size x="765" y="582" xunits="pixels" yunits="pixels"/>
+</ScreenOverlay>
+</kml>
