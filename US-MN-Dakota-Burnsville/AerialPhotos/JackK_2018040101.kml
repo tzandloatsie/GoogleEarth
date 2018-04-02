@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<ScreenOverlay>
+	<name>Jack K request, 2018-04-01</name>
+	<LookAt>
+		<longitude>-93.27791371194294</longitude>
+		<latitude>44.78566909981361</latitude>
+		<altitude>0</altitude>
+		<heading>85.57483848912133</heading>
+		<tilt>78.37739426977629</tilt>
+		<range>843.969445796635</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<Icon>
+		<href>JackK_2018040101.jpg</href>
+	</Icon>
+	<color>feffffff</color>
+	<overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	<screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+	<size x="608" y="480" xunits="pixels" yunits="pixels"/>
+</ScreenOverlay>
+</kml>
